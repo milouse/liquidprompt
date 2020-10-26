@@ -249,6 +249,7 @@ Available features:
 * `LP_TITLE` the prompt as a window's title escaped sequences
 * `LP_TTYN` the terminal basename
 * `LP_VENV` the current virtual environment (Python or Conda)
+* `LP_RUBY_VENV` the current ruby environment (RVM or rbenv)
 * `LP_BRACKET_OPEN` and `LP_BRACKET_CLOSE`, brackets enclosing the user+path part
 * `LP_RUNTIME` running time of the last command
 
